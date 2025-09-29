@@ -1,1 +1,1 @@
-# Smart-assistant
+# Smart Personal Assistant (Flask Project) 
